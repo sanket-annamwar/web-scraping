@@ -31,7 +31,9 @@ This application performs web scraping on the NPR website to collect news articl
     pip install -r requirements.txt
     ```
 ##Screenshots
-  ![Screenshot1](wed-scraping/screenshots/Screenshot1)
+  ![Screenshot1: Entries_in_excel_file](web-scraping/screenshots/Screenshot1.png)
+  
+  ![Screenshot2: Accuracy_using_SVC](web-scraping/screenshots/Screenshot2.png)
 
 ### Web Scraping
 
